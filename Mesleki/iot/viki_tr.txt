@@ -1,0 +1,36 @@
+Nesnelerin interneti
+Vikipedi, özgür ansiklopedi
+Nesnelerin interneti (Internet of Things, kısaca IoT), fiziksel nesnelerin birbirleriyle veya daha büyük sistemlerle bağlantılı olduğu iletişim ağıdır. Nesnelerin tekil anahtar (unique identifier) ile işaretlenerek İnternet altyapısı üzerinden birlikte çalışabilmesi ve bu sayede küçük parçaların toplamından daha büyük değerler oluşturulması öngörülmüştür.
+
+Amerikan Federal Ticaret Komisyonu nesnelerin internetini "günlük kullanımımızda olan nesnelerin internete bağlanıp veri gönderip alması kabiliyeti" olarak tanımlamıştır.[1]
+
+Nesnelerin interneti açısından, nesne kavramı oldukça geniş bir anlama sahiptir. Her türlü izleme cihazları, sensörler, biochipler veya erişim düzenekleri nesne olarak nitelendirilmektedir. Bir cihazın "akıllı" sayılabilmesi ve nesne olarak nitelendirilebilmesi için gerekli şartlar: Tekil bir isme sahip olması (unique id), bağlanılabilir olması ve bir sensörü olmasıdır. Bu sayede, akıllı nesne dünyanın herhangi bir yerinden erişilebilir ve kontrol edilebilir hale gelmektedir.[2]
+
+Nesnelerin interneti uygulamaları, sensörlerin tek tek erişilebilir olmasından başka, pek çok sensörün verisinin birleştirilerek değer üretilmesi amacıyla da kullanılmaktadır. Fiziksel ortamlardan akarak gelen yüksek miktardaki sensör verilerinin (data), yapılan değerlendirmelerin ardından bilgi (information) olarak operatörlere veya ilgili kişilere iletilmesi ya da verinin sistemler yardımıyla işlenerek bir faaliyet icra edilmesi sağlanmaktadır. Bu açıdan bakıldığında Nesnelerin internetinin Büyük Veri kavramları ve uygulamaları ile iç içe olduğu görülmektedir.
+
+Örneğin akıllı trafik sistemlerinde, trafikteki kişilerin konumlarını sürekli olarak merkezi bir sisteme iletmeleri sayesinde, sistem, kişilerin hareket bilgilerini analiz ederek, bölgedeki trafik yoğunluğunu, trafiğin akış hızını, belirli bir rota üzerinde tahmini varış süresini tespit edebilir. Bu sayede trafiğe yeni çıkacak kişiler trafik yoğunluğuna göre alternatif rotaları tercih edebilirler.
+
+Bir başka örnek olarak, bir oteldeki her bir odadaki karbonmonoksit oranı sensörler yardımıyla ölçülüp, yönetici sisteme iletilir. Yönetici sistem, kritik eşik aşılınca elektrik/gaz vanalarının kapatılması ve gerekli odalardaki yangın musluklarının açılmasını denetleyebilir. Bunun yanı sıra yönetici sistem, kritik eşik aşılmasa bile zaman içerisinde gelen verileri inceleyerek odalardaki karbonmonoksit oranının günün hangi saatlerinde daha yüksek olduğunu analiz ederek, o saatlerde pencerelerin kapalı kalmasını önerebilir.
+
+Kavramın Türkçe karşılığı olarak "Nesnelerin interneti" olarak geçmesi, TBD 32. Ulusal Bilişim Kurultayı esnasında Prof. Dr. Aydın Köksal tarafından oldukça olumlu bulunmakla beraber, "Nesneler interneti" karşılığı da önerilmiştir.
+Uygulama alanları[değiştir | kaynağı değiştir]
+Akıllı şehir uygulamaları[değiştir | kaynağı değiştir]
+Akıllı şehir uygulamaları; trafik, park yeri, ışıklandırma, atık yönetimi gibi konularda yerel yönetimlerin ve şehir sakinlerinin zamanı ve diğer kaynakları daha verimli kullanmalarını, işbirliği içerisinde çalışmalarını sağlayan sistemlerdir.
+
+Trafik sistemlerinde; anlık veya geleceğe dönük tahmini trafik yoğunluğu bilgilerinin oluşturulması ve dağıtılmasına yönelik uygulamalar bulunmaktadır.
+
+Araç park uygulamaları, gideceğiniz bölgedeki mevcut park yerlerini, park yerlerine ait doluluk oranlarını ve park yeri ücretini size sağlayabilmektedirler.
+
+Atık yönetimi uygulamaları, çöp konteynerlarının doluluk oranlarının takip edilmesi ile çöp araçları ile yapılan toplama faaliyetlerinin optimizasyonu, konteyner noktalarının değiştirilmesi ve konteyner büyüklüklerinin değiştirilmesi konularında bilgi verebilmektedirler.[3]
+
+Akıllı çevre uygulamaları[değiştir | kaynağı değiştir]
+Akıllı çevre uygulamaları hava kirliliği, yağış durumu, baraj doluluğu, orman yangını gibi çevresel faktörlerin gözlenmesini ve gereken durumlarda acil eylemlerde bulunulmasını sağlamak amacıyla kurulmaktadırlar.
+
+Akıllı ev uygulamaları[değiştir | kaynağı değiştir]
+Işık, ısı, havalandırma, eğlence, güvenlik gibi konularda evlerin sağladığı hizmetlerin uzaktan yönetilmesi ve durumunun takibi amacıyla akıllı ev uygulamaları geliştirilmektedir.
+
+Tedarik uygulamaları[değiştir | kaynağı değiştir]
+Stokta azalmakta olan, son kullanma tarihi yaklaşmakta olan ürünlerin takibini, gerek görülmesi durumunda tekrar sipariş verilmesi gibi tedarik uygulamalarına katkıda bulunmaları amacıyla geliştirilmektedir.
+
+Akıllı hayvancılık uygulamaları[değiştir | kaynağı değiştir]
+Hayvanların bulunduğu ortamların ısı, zararlı gaz durumu gibi parametrelerinin takip edilmesi amacıyla geliştirilmektedir.
